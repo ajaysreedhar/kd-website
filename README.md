@@ -1,8 +1,10 @@
+## :warning: KongDash (now Primate) has been moved to [github.com/getprimate](https://github.com/getprimate)
+
+---
+
 # KongDash
 
 > An elegant desktop client for [Kong](https://konghq.com/) admin API
-
-## :warning: KongDash has been moved to [getprimate/primate](https://github.com/getprimate/primate)
 
 [![](https://raw.githubusercontent.com/ajaysreedhar/kongdash.in/main/screenshot.png)](https://github.com/ajaysreedhar/kongdash)
 
